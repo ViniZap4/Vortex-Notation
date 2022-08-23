@@ -2,6 +2,9 @@
 
 O projeto será um jogo unity com elementos de non-player character.
 
+## Equipe
+Para o projeto será disponibilizado a  [[Equipe vortex]]
+
 ## Projeto em Sistemas Inteligentes Turma 36 
 > Quartas - Noturno
  
