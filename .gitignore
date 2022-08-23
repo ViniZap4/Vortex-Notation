@@ -69,5 +69,15 @@ unityProject/dog-adventure//[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 unityProject/dog-adventure//[Aa]ssets/[Ss]treamingAssets/aa.meta
 unityProject/dog-adventure//[Aa]ssets/[Ss]treamingAssets/aa/*
 
+
+# OR only to exclude workspace cache
+notation/.obsidian/workspace/*
+
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+
+# Add below lines to exclude OS settings and caches
+.trash/
+
 # macOS files
 .DS_Store
