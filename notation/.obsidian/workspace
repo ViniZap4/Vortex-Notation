@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sobre/Sobre o Projeto.md",
-            "mode": "source",
+            "file": "Sobre/Equipe vortex.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Sobre/Equipe vortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Sobre/Equipe vortex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md"
+                "file": "Sobre/Equipe vortex.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "a52ba7b6b37a3789",
   "lastOpenFiles": [
-    "Equipe Vortex/Lucas Alves Ribeiro.md",
-    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
-    "Sobre/Sobre o Projeto.md",
-    "Sobre/Equipe vortex.md",
     "Equipe Vortex/Pedro Dalla de Oliveira.md",
+    "Equipe Vortex/Lucas Alves Ribeiro.md",
+    "Sobre/Sobre o Projeto.md",
+    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
+    "Sobre/Equipe vortex.md",
     "Equipe Vortex/Kaue Alves Pereira.md",
     "Equipe Vortex/Felipe Moresqui.md",
     "Equipe Vortex/Brenda Aryelle.md"
