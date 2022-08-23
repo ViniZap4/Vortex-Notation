@@ -1,6 +1,6 @@
 # Equipe vortex
 
-A Equipe Votex é formada formada por 6 integrantes.
+A Equipe Votex é formada por 6 integrantes.
 
 - [[Brenda Aryelle]]
 - [[Felipe Moresqui]]

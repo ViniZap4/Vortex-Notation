@@ -4,42 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "217c252d94036618",
-        "type": "leaf",
-        "dimension": 45.45454545454546,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sobre/Sobre o Projeto.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "a52ba7b6b37a3789",
         "type": "leaf",
-        "dimension": 27.272727272727273,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sobre/Sobre o Projeto.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b4738137ae499ce0",
-        "type": "leaf",
-        "dimension": 27.272727272727273,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Equipe Vortex/Lucas Alves Ribeiro.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -104,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sobre/Sobre o Projeto.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,11 +122,11 @@
   },
   "active": "a52ba7b6b37a3789",
   "lastOpenFiles": [
-    "Sobre/Equipe vortex.md",
-    "Sobre/Sobre o Projeto.md",
-    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
-    "Equipe Vortex/Pedro Dalla de Oliveira.md",
     "Equipe Vortex/Lucas Alves Ribeiro.md",
+    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
+    "Sobre/Sobre o Projeto.md",
+    "Sobre/Equipe vortex.md",
+    "Equipe Vortex/Pedro Dalla de Oliveira.md",
     "Equipe Vortex/Kaue Alves Pereira.md",
     "Equipe Vortex/Felipe Moresqui.md",
     "Equipe Vortex/Brenda Aryelle.md"
