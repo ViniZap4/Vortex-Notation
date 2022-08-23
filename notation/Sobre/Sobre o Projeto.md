@@ -2,7 +2,12 @@
 
 O projeto será um jogo unity com elementos de non-player character.
 
-## Equipe
+
+
+## Time Vortex
+>  **Grupo 4**
+- [Divre de entregas](https://drive.google.com/drive/folders/17ebkzh4WJTSEhJIpBr6Lv4uR1Fc_vxb_)
+
 Para o projeto será disponibilizado a  [[Equipe vortex]]
 
 ## Projeto em Sistemas Inteligentes Turma 36 
