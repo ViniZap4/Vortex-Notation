@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "Reuniões",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.77521367521368,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 2.08882352941176,
+  "lineSizeMultiplier": 1.05117647058824,
   "collapse-forces": false,
-  "centerStrength": 0.564102564102564,
-  "repelStrength": 10.4273504273504,
-  "linkStrength": 0.709401709401709,
-  "linkDistance": 250,
+  "centerStrength": 0.247058823529412,
+  "repelStrength": 7.52941176470588,
+  "linkStrength": 0.635294117647059,
+  "linkDistance": 107,
   "scale": 1,
   "close": true
 }

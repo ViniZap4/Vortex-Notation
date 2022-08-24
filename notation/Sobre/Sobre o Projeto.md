@@ -22,7 +22,7 @@ Para o projeto será disponibilizado a  [[Equipe vortex]]
 
 ## Disciplinas do módulo
 
--   Métodos numéricos computacionais - Profª Debora
--   Modelagem e Simulação - Prof. Edson
--   Inteligência Artificial - Prof. Romualdo
--   Automação de Processos (EaD)
+-   **Métodos numéricos computacionais** - Profª Debora
+-   **Modelagem e Simulação** - Prof. Edson
+-   **Inteligência Artificial** - Prof. Romualdo
+-   **Automação de Processos** (EaD)

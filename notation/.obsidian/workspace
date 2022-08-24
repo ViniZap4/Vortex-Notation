@@ -7,8 +7,12 @@
         "id": "a52ba7b6b37a3789",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Reuniões/Reuniões pendentes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reuniões/Reuniões pendentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reuniões/Reuniões pendentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reuniões/Reuniões pendentes.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "a52ba7b6b37a3789",
   "lastOpenFiles": [
-    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
-    "Equipe Vortex/Pedro Dalla de Oliveira.md",
-    "Equipe Vortex/Lucas Alves Ribeiro.md",
-    "Equipe Vortex/Kaue Alves Pereira.md",
-    "Equipe Vortex/Felipe Moresqui.md",
+    "Reuniões/ATA's/Reunião dia 27 de agosto de 2022.md",
+    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
     "Equipe Vortex/Brenda Aryelle.md",
-    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
-    "Sobre/Deadlines.md",
+    "Equipe Vortex/Kaue Alves Pereira.md",
     "Sobre/Sobre o Projeto.md",
-    "Sobre/Equipe vortex.md"
+    "Sobre/Deadlines.md",
+    "Sobre/Equipe vortex.md",
+    "Equipe Vortex/Pedro Dalla de Oliveira.md",
+    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
+    "Reuniões/Reuniões pendentes.md"
   ]
 }
