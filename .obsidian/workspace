@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "0cd964ef44d928de",
+    "id": "0d1989c197a2dfae",
     "type": "split",
     "children": [
       {
-        "id": "a52ba7b6b37a3789",
+        "id": "f70bd2b07c9d7a72",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4099383cf4c2261",
+    "id": "2a5d993bdc7669fa",
     "type": "split",
     "children": [
       {
-        "id": "05eebff6098dfaf6",
+        "id": "49e013dddef156d1",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc6140ead5bf55c",
+            "id": "b881980be5c6e351",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "f89b13474fafeb1e",
+            "id": "38dfc01d84bd9e25",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "8fb40f370fd1a06a",
+            "id": "e085bdd6defdb351",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "da8f9a2818f33355",
+    "id": "0afc81b0bdac6218",
     "type": "split",
     "children": [
       {
-        "id": "314ba76364f4d6d3",
+        "id": "c413a79682b9d42a",
         "type": "tabs",
         "children": [
           {
-            "id": "99a75a439ce296c2",
+            "id": "cc784f233c97e4f4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "a4db951cc2d2d290",
+            "id": "da3f45e6381e42b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "94e1eabd7f58f0bd",
+            "id": "5bcccfed119f469a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "82f318dfc35b9f73",
+            "id": "19726d79392829f5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,17 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bc6140ead5bf55c",
-  "lastOpenFiles": [
-    "Reuniões/Reuniões pendentes.md",
-    "Reuniões/ATA's Vortex/Reunião dia 27 de agosto de 2022.md",
-    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
-    "Equipe Vortex/Brenda Aryelle.md",
-    "Equipe Vortex/Kaue Alves Pereira.md",
-    "Sobre/Sobre o Projeto.md",
-    "Sobre/Deadlines.md",
-    "Sobre/Equipe vortex.md",
-    "Equipe Vortex/Pedro Dalla de Oliveira.md",
-    "Equipe Vortex/Vinicius Zapalá dos Santos.md"
-  ]
+  "active": "f70bd2b07c9d7a72",
+  "lastOpenFiles": []
 }
