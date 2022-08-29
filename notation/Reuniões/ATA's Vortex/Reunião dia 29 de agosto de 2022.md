@@ -2,7 +2,7 @@
 #Reuniões 
 
 ## notas
-Foi feita a reunião do dia 29 numa segunda-feira;
+Foi feita a reunião do dia 29 numa segunda-feira no gather;
 repositório para o projeto unity foi criado [dog-adventure](https://github.com/ViniZap4/dog-adventure)
 
 ## Assuntos discutidos
