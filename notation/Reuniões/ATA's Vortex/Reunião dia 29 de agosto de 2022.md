@@ -10,6 +10,7 @@ O nome do projeto foi votado para **dog adventure**.
 - **Visual Studio:** IDE usada para a codificação.
 - **Figma:** prototipação do jogo.
 - **Obsidian:** para as notações e documentações em markdown ([vortex-notation](https://github.com/ViniZap4/Vortex-Notation)).
+- **Gather:** para as reuniões e encontros.
 
 ## Assuntos discutidos
 - [x] Discutir sobre o projeto em si, e sua organização
