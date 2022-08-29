@@ -1,4 +1,4 @@
 # Reuniões pendentes
 #Reuniões
 
-- [ ] [[Reunião dia 29 de agosto de 2022]]
+- [x] [[Reunião dia 29 de agosto de 2022]]
