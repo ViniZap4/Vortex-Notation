@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sobre/Sobre o Projeto.md",
+            "file": "Reuniões/Reuniões.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Reuniões/Reuniões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Reuniões/Reuniões.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md"
+                "file": "Reuniões/Reuniões.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "a52ba7b6b37a3789",
   "lastOpenFiles": [
-    "documentos/info.pdf",
-    "Sobre/Sobre o Projeto.md",
-    "Sobre/Equipe vortex.md",
+    "Reuniões/Reuniões.md",
     "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
-    "Reuniões/Reuniões pendentes.md",
-    "Sobre/Deadlines.md",
-    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
-    "Equipe Vortex/Kaue Alves Pereira.md",
+    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
     "Equipe Vortex/Pedro Dalla de Oliveira.md",
-    "Equipe Vortex/Lucas Alves Ribeiro.md"
+    "Equipe Vortex/Lucas Alves Ribeiro.md",
+    "Equipe Vortex/Kaue Alves Pereira.md",
+    "Equipe Vortex/Felipe Moresqui.md",
+    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
+    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
+    "documentos/info.pdf"
   ]
 }
