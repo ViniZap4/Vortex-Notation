@@ -6,24 +6,10 @@
       {
         "id": "a52ba7b6b37a3789",
         "type": "leaf",
-        "dimension": 45.415647921760396,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Sobre/Sobre o Projeto.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "dc47e8089d3d5bab",
-        "type": "leaf",
-        "dimension": 54.584352078239604,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
+                "file": "Sobre/Sobre o Projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
+                "file": "Sobre/Sobre o Projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md"
+                "file": "Sobre/Sobre o Projeto.md"
               }
             }
           }
@@ -142,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc47e8089d3d5bab",
+  "active": "a52ba7b6b37a3789",
   "lastOpenFiles": [
-    "Reuniões/Reuniões pendentes.md",
-    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
-    "Sobre/Deadlines.md",
-    "Sobre/Equipe vortex.md",
+    "documentos/info.pdf",
     "Sobre/Sobre o Projeto.md",
+    "Sobre/Equipe vortex.md",
+    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
+    "Reuniões/Reuniões pendentes.md",
+    "Sobre/Deadlines.md",
     "Deadline/TAP/TAP - Termo de abertura do projeto.md",
     "Equipe Vortex/Kaue Alves Pereira.md",
     "Equipe Vortex/Pedro Dalla de Oliveira.md",
-    "Equipe Vortex/Lucas Alves Ribeiro.md",
-    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md"
+    "Equipe Vortex/Lucas Alves Ribeiro.md"
   ]
 }

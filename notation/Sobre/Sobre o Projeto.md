@@ -26,3 +26,8 @@ Para o projeto será disponibilizado a  [[Equipe vortex]]
 -   **Modelagem e Simulação** - Prof. Edson
 -   **Inteligência Artificial** - Prof. Romualdo
 -   **Automação de Processos** (EaD)
+
+
+## Informações Gerais
+
+![info](../documentos/info.pdf)
