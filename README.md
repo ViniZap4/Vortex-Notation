@@ -6,7 +6,6 @@ Documentação para o projeto em Sistemas Inteligentes do segundo semestre de 20
 
 ## links interessantes
 - [sobre o projeto](./notation/Sobre/Sobre%20o%20Projeto.md)
-- [Dealines](./notation/Deadline)
 - [Devlogs](./notation/DevLogs/DevLogs.md)
 - [Dog Adventure](https://github.com/ViniZap4/dog-adventure)
 - [Deadline](https://traue.github.io/2022-2_projetos/quarta_noite_t36)
