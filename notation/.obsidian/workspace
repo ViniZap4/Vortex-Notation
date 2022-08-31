@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sobre/Deadlines.md",
-            "mode": "preview",
+            "file": "Deadline/Demonstração/Deadline 6 - Demonstração.md",
+            "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "1ee7c9a36108c70d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre/Deadlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre/Deadlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sobre/Deadlines.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a52ba7b6b37a3789",
+  "active": "1ee7c9a36108c70d",
   "lastOpenFiles": [
-    "Sobre/Equipe vortex.md",
+    "Deadline/Deadlines.md",
     "Deadline/TAP/TAP - Termo de abertura do projeto.md",
-    "Sobre/Deadlines.md",
-    "documentos/info.pdf",
-    "Equipe Vortex/Brenda Aryelle.md",
-    "Equipe Vortex/Felipe Moresqui.md",
-    "Equipe Vortex/Kaue Alves Pereira.md",
-    "Equipe Vortex/Pedro Dalla de Oliveira.md",
-    "Equipe Vortex/Vinicius Zapalá dos Santos.md",
-    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md"
+    "Deadline/Landing page/Deadline 4 - Landing page.md",
+    "Deadline/Demonstração/Deadline 6 - Demonstração.md",
+    "Deadline/Prototipação/Deadline 5 - Prototipação.md",
+    "DevLogs/DevLogs.md",
+    "Sobre/Sobre o Projeto.md",
+    "DevLogs/Untitled 1.md",
+    "Reuniões/Reuniões.md",
+    "Equipe Vortex/Kaue Alves Pereira.md"
   ]
 }

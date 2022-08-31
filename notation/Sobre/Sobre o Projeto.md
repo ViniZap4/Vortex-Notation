@@ -19,6 +19,7 @@ Para o projeto será disponibilizado a  [[Equipe vortex]]
 -   [Deadline](https://traue.github.io/2022-2_projetos/quarta_noite_t36)
 -   [ClassRoom](https://classroom.google.com/c/NDg4ODEyMTA0ODQx?cjc=4tju4le)
 -   [ATAs](https://drive.google.com/drive/folders/1MJ_7okpHpfHZdA2ST1JNCwoy7Tg4QlTy?usp=sharing)
+- [[DevLogs]]
 
 ## Disciplinas do módulo
 
@@ -26,8 +27,3 @@ Para o projeto será disponibilizado a  [[Equipe vortex]]
 -   **Modelagem e Simulação** - Prof. Edson
 -   **Inteligência Artificial** - Prof. Romualdo
 -   **Automação de Processos** (EaD)
-
-
-## Informações Gerais
-
-![info](../documentos/info.pdf)
