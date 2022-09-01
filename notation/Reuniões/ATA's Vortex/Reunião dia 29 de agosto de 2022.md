@@ -18,10 +18,10 @@ O nome do projeto foi votado para **dog adventure**.
 	- [x] Decidir novo nome para o projeto - dog adventure;
 	- [x] Organizar os repositórios do projeto;
 - [x] softwares/ferramentas que serão necessárias para o projeto;
+- [x] Marcar a data das Reuniões semanais; 
 
 ## Assuntos pendentes
 - [ ] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
-- [ ] Marcar a data das Reuniões semanais; 
 
 ## Participantes
 - [x] [[Brenda Aryelle]]

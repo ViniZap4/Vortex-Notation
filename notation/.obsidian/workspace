@@ -6,10 +6,11 @@
       {
         "id": "a52ba7b6b37a3789",
         "type": "leaf",
+        "dimension": 47.13636363636364,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sobre/Sobre o Projeto.md",
+            "file": "Deadline/Deadlines.md",
             "mode": "preview",
             "source": false
           }
@@ -18,9 +19,14 @@
       {
         "id": "1ee7c9a36108c70d",
         "type": "leaf",
+        "dimension": 52.86363636363637,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md"
+                "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md"
               }
             }
           }
@@ -136,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a52ba7b6b37a3789",
+  "active": "1ee7c9a36108c70d",
   "lastOpenFiles": [
-    "Sobre/Equipe vortex.md",
-    "Reuniões/Reuniões.md",
-    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
-    "Deadline/Demonstração/Deadline 6 - Demonstração.md",
-    "Deadline/Landing page/Deadline 4 - Landing page.md",
-    "Deadline/Prototipação/Deadline 5 - Prototipação.md",
     "Deadline/Deadlines.md",
-    "DevLogs/DevLogs.md",
-    "documentos/Untitled.md",
-    "Deadline/TAP/TAP - Termo de abertura do projeto.md"
+    "Sobre/Sobre o Projeto.md",
+    "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
+    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
+    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
+    "documentos/drive/DevLogs.pdf",
+    "documentos/drive/info.pdf",
+    "Reuniões/Reuniões.md",
+    "Sobre/Equipe vortex.md",
+    "Equipe Vortex/Vinicius Zapalá dos Santos.md"
   ]
 }
