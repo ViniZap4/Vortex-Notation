@@ -1,7 +1,7 @@
 # Reunião dia 04 de Setembro de 2022 
 #Reuniões 
 
-## Assuntos a discutidos
+## Assuntos a discutir
 - [ ] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
 - [ ] Discutir sobre a Deadline 3 - [[Deadline 3 - Definição da IA]];
 
