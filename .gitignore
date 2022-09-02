@@ -8,7 +8,9 @@
 notation/.obsidian/workspace/*
 
 # This file is used to keep track of last auto backup/pull
-.obsidian-git-data
+notation/.obsidian-git-data
+
+notation/.obsidian/workspace
 
 # Add below lines to exclude OS settings and caches
 .trash/
