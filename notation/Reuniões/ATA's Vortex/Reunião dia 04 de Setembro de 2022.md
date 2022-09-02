@@ -2,8 +2,16 @@
 #Reuniões 
 
 ## Assuntos a discutir
-- [ ] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
-- [ ] Discutir sobre a Deadline 3 - [[Deadline 3 - Definição da IA]];
+- [ ] Workflow do Projeto;
+- [ ] Conceito do Dog adventure;
+- [ ] Entregas:
+	- [ ] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
+		- [ ] Responsabilidades e áreas de atuação;
+			- [ ] Equipe e funções;
+		- [ ] Personagens;
+		- [ ] História;
+		- [ ] Objetivo;
+		- [ ] Cronogramas e Marcos;
 
 ## notas
 ...
