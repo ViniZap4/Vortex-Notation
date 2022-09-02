@@ -1,4 +1,4 @@
-# Dog Adventure 
+# <span style="color: orange" > Dog Adventure </span> 
 
 O projeto será um jogo unity com elementos de non-player character.
 
@@ -19,7 +19,7 @@ Para o projeto será disponibilizado a  [[Equipe vortex]]
 -   [Deadline](https://traue.github.io/2022-2_projetos/quarta_noite_t36)
 -   [ClassRoom](https://classroom.google.com/c/NDg4ODEyMTA0ODQx?cjc=4tju4le)
 -   [ATAs](https://drive.google.com/drive/folders/1MJ_7okpHpfHZdA2ST1JNCwoy7Tg4QlTy?usp=sharing)
-- [[DevLogs]]
+-  [[DevLogs]]
 
 ## Disciplinas do módulo
 

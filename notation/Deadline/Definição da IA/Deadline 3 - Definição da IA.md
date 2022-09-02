@@ -4,4 +4,5 @@
 
 - **Prazo:** 5 de Outubro, 18h.
 - **Valor:** 1 Pontos.
-- **Entrega:** upload no Drive.
+- **Entrega:** upload no Drive
+- **Responsável:** _[[Vinicius Zapalá dos Santos]]_

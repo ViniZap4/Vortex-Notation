@@ -5,4 +5,5 @@
 - **Prazo:** 21 de Setembro, 18h.
 - **Valor:** 2 Pontos.
 - **Entrega:** upload no Drive.
+- **Responsável:** _[[Vinicius Zapalá dos Santos]]_
 

@@ -1,4 +1,4 @@
-# Equipe vortex
+# Time vortex
 
 A Equipe Votex é formada por 6 integrantes.
 
