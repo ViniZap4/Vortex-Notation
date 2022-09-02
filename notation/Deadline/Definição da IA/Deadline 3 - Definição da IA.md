@@ -2,6 +2,7 @@
 
 **Deadline 3:** [Definição da IA](https://docs.google.com/document/d/1_N2IB1mpdq_9VduDOQsLRplIB4zAhqAn1MHYpYAdaz8/edit?usp=drive_web&authuser=1);
 
+- **Card**: [[Kanban - Dog Adventure#^wz0xce]]
 - **Prazo:** 5 de Outubro, 18h.
 - **Valor:** 1 Pontos.
 - **Entrega:** upload no Drive
