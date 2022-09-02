@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Documento.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f89b13474fafeb1e",
+  "active": "a52ba7b6b37a3789",
   "lastOpenFiles": [
-    "Kanban/Kanban - Dog Adventure.md",
-    "Deadline/Demonstração/Deadline 6 - Demonstração.md",
+    "Deadline/Landing page/Deadline 4 - Landing page.md",
+    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
     "Deadline/TAP/TAP - Termo de abertura do projeto.md",
+    "Kanban/Kanban - Dog Adventure.md",
+    "DevLogs/DevLogs.md",
+    "Deadline/Demonstração/Deadline 6 - Demonstração.md",
     "documentos/drive/info.pdf",
     "documentos/drive/DevLogs.pdf",
     "Equipe Vortex/Lucas Alves Ribeiro.md",
-    "Equipe Vortex/Felipe Moresqui.md",
-    "DevLogs/DevLogs.md",
-    "Equipe Vortex/Brenda Aryelle.md",
-    "Equipe Vortex/Kaue Alves Pereira.md"
+    "Equipe Vortex/Felipe Moresqui.md"
   ]
 }
