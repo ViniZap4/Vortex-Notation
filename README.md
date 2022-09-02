@@ -1,6 +1,6 @@
 # Notation
 
-Anotações e documentações feitas em markdown, com o obsidian.
+Anotações, documentações e kanban, feitas em markdown, com o obsidian.
 Documentação para o projeto em Sistemas Inteligentes do segundo semestre de 2022.
 
 
