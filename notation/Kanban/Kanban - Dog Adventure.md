@@ -6,14 +6,14 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] # Definição de IA<br>- <span style="color:lightblue"><br>		Documento. <br>	</span><br>- **Prazo:** 05/10, 18h.<br>---<br> Criação e Entrega do [[Deadline 3 - Definição da IA]]<br><br/>
-- [ ] # Landing Page<br>- <span style="color:lightblue"><br>		Documento. <br>	</span><br>- **Prazo:** 12/10, 18h.<br>---<br>Criação e Entrega do [[Deadline 4 - Landing page]]<br><br/>
-- [ ] # Prototipação<br>- <span style="color:lightblue"><br>		Documento. <br>	</span><br>- **Prazo:** 26/10, 18h.<br>---<br>Criação e Entrega do [[Deadline 5 - Prototipação]]<br><br/>
+- [ ] # Definição de IA<br>#Documento. @{2022-10-05}<br>---<br> Criação e Entrega do [[Deadline 3 - Definição da IA]]<br>***
+- [ ] # Landing Page<br> #Documento. @{2022-10-12}<br>---<br>Criação e Entrega do [[Deadline 4 - Landing page]]<br>***
+- [ ] # Prototipação<br> #Documento. @{2022-10-26}<br>---<br>Criação e Entrega do [[Deadline 5 - Prototipação]]<br>***
 
 
 ## To do
 
-- [ ] # Termo de abertura do projeto.<br>- <span style="color:lightblue"><br>		Documento. <br>	</span><br>- **Prazo:** 21/9, 18h.<br>---<br>Criação e Entrega do [[TAP - Termo de abertura do projeto]]<br><br/>
+- [ ] # Termo de abertura do projeto.<br> #Documento. @{2022-09-21}<br>---<br>Criação e Entrega do [[TAP - Termo de abertura do projeto]]<br>*** ^80bh0f
 
 
 ## bugs / High Priority
@@ -32,6 +32,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-note-folder":"Kanban/NoteFolder","lane-width":369,"show-checkboxes":false}
+{"kanban-plugin":"basic","new-note-folder":"Kanban/NoteFolder","lane-width":369,"show-checkboxes":false,"hide-date-in-title":true,"hide-tags-in-title":true}
 ```
 %%
