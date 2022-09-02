@@ -5,12 +5,11 @@
 .gradle/
 
 # OR only to exclude workspace cache
+notation/.obsidian/workspace
 notation/.obsidian/workspace/*
 
 # This file is used to keep track of last auto backup/pull
-notation/.obsidian-git-data
-
-notation/.obsidian/workspace
+.obsidian-git-data
 
 # Add below lines to exclude OS settings and caches
 .trash/
