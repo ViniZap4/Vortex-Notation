@@ -4,6 +4,7 @@
 ## Assuntos a discutir
 - [ ] Workflow do Projeto;
 - [ ] Conceito do Dog adventure;
+- [ ] protótipo do dog adventure - [Dog adventure prototype](https://github.com/ViniZap4/dog-adventure-prototype)
 - [ ] Entregas:
 	- [ ] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
 		- [ ] Responsabilidades e áreas de atuação;
