@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a52ba7b6b37a3789",
+        "id": "0458bf1023231b6b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Sobre/Sobre o Projeto.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "014ed4ff30698e13",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reuniões/Reuniões.md",
-            "mode": "preview",
-            "source": false
+            "file": "Kanban/Kanban - Dog Adventure.md"
           }
         }
       }
@@ -52,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Responsabilidades",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 315.5
   },
   "right": {
     "id": "da8f9a2818f33355",
@@ -89,14 +75,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuniões/Reuniões.md",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuniões/Reuniões.md",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuniões/Reuniões.md"
+                "file": "Kanban/Kanban - Dog Adventure.md"
               }
             }
           }
@@ -140,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "014ed4ff30698e13",
+  "active": "0458bf1023231b6b",
   "lastOpenFiles": [
-    "Sobre/Sobre o Projeto.md",
     "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
-    "Reuniões/Reuniões.md",
-    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
-    "Sobre/Equipe vortex.md",
     "Kanban/Kanban - Dog Adventure.md",
-    "Deadline/Landing page/Deadline 4 - Landing page.md",
+    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
+    "Reuniões/ATA's Vortex/Reunião dia 11 de Setembro de 2022.md",
+    "Reuniões/Reuniões.md",
+    "Sobre/Sobre o Projeto.md",
     "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
     "Deadline/TAP/TAP - Termo de abertura do projeto.md",
-    "DevLogs/DevLogs.md"
+    "Deadline/Deadlines.md",
+    "Deadline/Doc. Final/Doc. FInal.md"
   ]
 }
