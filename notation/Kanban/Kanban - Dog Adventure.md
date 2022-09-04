@@ -23,13 +23,13 @@ kanban-plugin: basic
 
 - [ ] # <span style="color:#8c80f2">Definição de IA</span><br>#Documento. @{2022-10-05}<br>---<br> Criação e Entrega do [[Deadline 3 - Definição da IA]]<br>***
 - [ ] # <span style="color:#8c80f2"> Prototipação <span><br> #Documento. @{2022-10-26}<br>---<br>Criação e Entrega do [[Deadline 5 - Prototipação]]<br>***
-- [ ] # <span style="color:#8c80f2"> Prefab do Player <span><br> #Prefab #Player @{2022-09-11}<br>---<br>Criação do prefab do **Dog** (Player) <br>***
-- [ ] # <span style="color:#8c80f2"> Comportamento dos NPC's<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Elaboração do comportamento dos NPC's <br>e criação dos pontos de movimentação e do navigation.<br>***
+- [ ] # <span style="color:#8c80f2"> Comportamento dos NPC's<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Elaboração do comportamento dos NPC's <br>e criação dos pontos de movimentação e da Mesh Navigation.<br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do slime <span><br> #Prefab #monstro @{2022-09-18}<br>---<br>Criação do prefab do slime <br>***
 
 
-## bugs / High Priority
+## High Priority or bugs
 
+- [ ] # <span style="color:#8c80f2"> Prefab do Player <span><br> #Prefab #Player @{2022-09-11}<br>---<br>Criação do prefab do **Dog** (Player) <br>***
 
 
 ## In Progess
