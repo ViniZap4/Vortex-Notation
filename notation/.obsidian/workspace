@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a52ba7b6b37a3789",
+        "id": "0458bf1023231b6b",
         "type": "leaf",
-        "dimension": 55.68222301389383,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "120406a00bb305c9",
-        "type": "leaf",
-        "dimension": 44.31777698610617,
-        "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
-            "mode": "preview",
-            "source": false
+            "file": "Kanban/Kanban - Dog Adventure.md"
           }
         }
       }
@@ -87,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md"
+                "file": "Kanban/Kanban - Dog Adventure.md"
               }
             }
           }
@@ -138,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "120406a00bb305c9",
+  "active": "0458bf1023231b6b",
   "lastOpenFiles": [
+    "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
+    "Kanban/Kanban - Dog Adventure.md",
+    "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
+    "Reuniões/ATA's Vortex/Reunião dia 11 de Setembro de 2022.md",
+    "Reuniões/Reuniões.md",
+    "Sobre/Sobre o Projeto.md",
+    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
     "Deadline/TAP/TAP - Termo de abertura do projeto.md",
     "Deadline/Deadlines.md",
-    "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
-    "Deadline/Doc. Final/Doc. FInal.md",
-    "Deadline/Apresentação/Apresentação.md",
-    "2022-09-03.md",
-    "Kanban/Kanban - Dog Adventure.md",
-    "Sobre/Sobre o Projeto.md",
-    "Sobre/Equipe vortex.md",
-    "Reuniões/Reuniões.md"
+    "Deadline/Doc. Final/Doc. FInal.md"
   ]
 }

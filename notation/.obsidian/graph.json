@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "deadline",
+      "query": "Reuniões",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 6684927
       }
     },
     {
@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "Reuniões",
+      "query": "deadline",
       "color": {
         "a": 1,
-        "rgb": 6684927
+        "rgb": 14701138
       }
     }
   ],
