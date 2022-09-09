@@ -21,7 +21,7 @@ O nome do projeto foi votado para **dog adventure**.
 - [x] Marcar a data das Reuniões semanais; 
 
 ## Assuntos pendentes
-- [ ] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
+- [x] Discutir sobre a Deadline 2 - [[TAP - Termo de abertura do projeto]];
 
 ## Participantes
 - [x] [[Brenda Aryelle]]

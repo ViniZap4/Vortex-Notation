@@ -34,12 +34,12 @@ kanban-plugin: basic
 
 ## In Progess
 
-- [ ] # <span style="color:#8c80f2">Termo de abertura do projeto.<span><br> #Documento. @{2022-09-21}<br>---<br>Criação e Entrega do [[TAP - Termo de abertura do projeto]]<br>*** ^80bh0f
 - [ ] # <span style="color:#8c80f2">Landing Page</span><br> #Documento. @{2022-10-12}<br>---<br>Criação e Entrega do [[Deadline 4 - Landing page]]<br>***
 
 
 ## Done
 
+- [ ] # <span style="color:#8c80f2">Termo de abertura do projeto.<span><br> #Documento. @{2022-09-21}<br>---<br>Criação e Entrega do [[TAP - Termo de abertura do projeto]]<br>*** ^80bh0f
 
 
 
