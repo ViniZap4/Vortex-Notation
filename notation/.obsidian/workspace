@@ -7,9 +7,9 @@
         "id": "0458bf1023231b6b",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "pdf",
           "state": {
-            "file": "Kanban/Kanban - Dog Adventure.md"
+            "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Kanban - Dog Adventure.md",
+                "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Kanban - Dog Adventure.md",
+                "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Kanban - Dog Adventure.md"
+                "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf"
               }
             }
           }
@@ -126,14 +126,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0458bf1023231b6b",
+  "active": "7bc6140ead5bf55c",
   "lastOpenFiles": [
+    "Kanban/Kanban - Dog Adventure.md",
     "Sobre/Equipe vortex.md",
     "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
     "Reuniões/ATA's Vortex/Reunião dia 11 de Setembro de 2022.md",
     "Reuniões/ATA's Vortex/Reunião dia 29 de agosto de 2022.md",
     "Reuniões/Reuniões.md",
-    "Kanban/Kanban - Dog Adventure.md",
     "Captura de Tela 2022-09-04 às 17.50.59.png",
     "Sobre/Sobre o Projeto.md",
     "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
