@@ -7,10 +7,15 @@
         "id": "0458bf1023231b6b",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "pdf",
           "state": {
             "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf"
           }
+=======
+          "type": "empty",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -75,7 +80,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +100,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
