@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] # <span style="color:#8c80f2"> Menu Inicial <span><br> #UI #level  #GameDesigner @{2022-09-18}<br>---<br>Criação do Menu Inicial<br>***
 - [ ] # <span style="color:#8c80f2"> Prefab da tartaruga <span><br> #Prefab #monstro @{2022-09-25}<br>---<br>Criação do prefab da tartaruga <br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do tesouro<span><br> #Prefab #monstro  @{2022-10-02}<br>---<br>Criação do prefab do chest <br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do golem <span><br> #Prefab #monstro #boss @{2022-10-02}<br>---<br>Criação do prefab do golem <br>***
@@ -21,7 +20,7 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] # <span style="color:#8c80f2">Definição de IA</span><br>#Documento. @{2022-10-05}<br>---<br> Criação e Entrega do [[Deadline 3 - Definição da IA]]<br>***
+- [ ] # <span style="color:#8c80f2"> Menu Inicial <span><br> #UI #level  #GameDesigner @{2022-09-18}<br>---<br>Criação do Menu Inicial<br>***
 - [ ] # <span style="color:#8c80f2"> Prototipação <span><br> #Documento. @{2022-10-26}<br>---<br>Criação e Entrega do [[Deadline 5 - Prototipação]]<br>***
 - [ ] # <span style="color:#8c80f2"> Comportamento dos NPC's<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Elaboração do comportamento dos NPC's <br>e criação dos pontos de movimentação e da Mesh Navigation.<br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do slime <span><br> #Prefab #monstro @{2022-09-18}<br>---<br>Criação do prefab do slime <br>***
@@ -29,17 +28,18 @@ kanban-plugin: basic
 
 ## High Priority or bugs
 
-- [ ] # <span style="color:#8c80f2"> Prefab do Player <span><br> #Prefab #Player @{2022-09-11}<br>---<br>Criação do prefab do **Dog** (Player) <br>***
 
 
 ## In Progess
 
 - [ ] # <span style="color:#8c80f2">Landing Page</span><br> #Documento. @{2022-10-12}<br>---<br>Criação e Entrega do [[Deadline 4 - Landing page]]<br>***
+- [ ] # <span style="color:#8c80f2">Definição de IA</span><br>#Documento. @{2022-10-05}<br>---<br> Criação e Entrega do [[Deadline 3 - Definição da IA]]<br>***
 
 
 ## Done
 
 - [ ] # <span style="color:#8c80f2">Termo de abertura do projeto.<span><br> #Documento. @{2022-09-21}<br>---<br>Criação e Entrega do [[TAP - Termo de abertura do projeto]]<br>*** ^80bh0f
+- [ ] # <span style="color:#8c80f2"> Prefab do Player <span><br> #Prefab #Player @{2022-09-11}<br>---<br>Criação do prefab do **Dog** (Player) <br>***
 
 
 
