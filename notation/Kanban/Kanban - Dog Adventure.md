@@ -9,7 +9,6 @@ kanban-plugin: basic
 - [ ] # <span style="color:#8c80f2"> Prefab da tartaruga <span><br> #Prefab #monstro @{2022-09-25}<br>---<br>Criação do prefab da tartaruga <br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do tesouro<span><br> #Prefab #monstro  @{2022-10-02}<br>---<br>Criação do prefab do chest <br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do golem <span><br> #Prefab #monstro #boss @{2022-10-02}<br>---<br>Criação do prefab do golem <br>***
-- [ ] # <span style="color:#8c80f2"> Add Cinemachine<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Criação das cinemachines e os triggers para mudança da posição da câmera principal. <br>***
 - [ ] # <span style="color:#8c80f2">Criação do Level 1<span><br>#levelMaker #GameDesigner  @{2022-10-09}<br>---<br>Criação do level 1.<br>***
 - [ ] # <span style="color:#8c80f2"> criação do pause<span><br> #mecanica @{2022-10-09}<br>---<br>Criação da mecânicas de pause<br>***
 - [ ] # <span style="color:#8c80f2">Criação do Level 2<span><br>#levelMaker #GameDesigner  @{2022-10-16}<br>---<br>Criação do level 2.<br>***
@@ -20,10 +19,11 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] # <span style="color:#8c80f2"> Menu Inicial <span><br> #UI #level  #GameDesigner @{2022-09-18}<br>---<br>Criação do Menu Inicial<br>***
+- [ ] # <span style="color:#8c80f2"> Menu Inicial <span><br> #UI #level  #GameDesigner @{2022-09-25}<br>---<br>Criação do Menu Inicial<br>***
 - [ ] # <span style="color:#8c80f2"> Prototipação <span><br> #Documento. @{2022-10-26}<br>---<br>Criação e Entrega do [[Deadline 5 - Prototipação]]<br>***
-- [ ] # <span style="color:#8c80f2"> Comportamento dos NPC's<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Elaboração do comportamento dos NPC's <br>e criação dos pontos de movimentação e da Mesh Navigation.<br>***
 - [ ] # <span style="color:#8c80f2"> Prefab do slime <span><br> #Prefab #monstro @{2022-09-18}<br>---<br>Criação do prefab do slime <br>***
+- [ ] # <span style="color:#8c80f2"> Comportamento dos NPC's<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Elaboração do comportamento dos NPC's <br>e criação dos pontos de movimentação e da Mesh Navigation.<br>***
+- [ ] # <span style="color:#8c80f2"> Add Cinemachine<span><br> #mecânica #GameDesigner  @{2022-09-18}<br>---<br>Criação das cinemachines e os triggers para mudança da posição da câmera principal. <br>***
 
 
 ## High Priority or bugs
