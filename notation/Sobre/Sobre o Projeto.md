@@ -1,9 +1,17 @@
 # <span style="color: orange" > Dog Adventure </span> 
 
-O projeto será um jogo unity com elementos de non-player character.
+Esse Projeto tem como objetivo criar um sistema inteligente, pelo qual será um jogo, onde terá **npc’s** _(Non-player character)_ inteligentes.
 
-protótipo - [dog adventure prototype](https://github.com/ViniZap4/dog-adventure-prototype)
+O Jogo será chamado de __*Dog adventure*__.
 
+**Dog Adventure** será um **jogo 3D** de aventura, será possivel jogar tanto no teclado quanto em um controle joystick.
+
+Podendo ser jogado nas plataformas **MacOS**, **Windows** e **Linux**.
+
+---
+**Protótipo** - [dog adventure prototype](https://github.com/ViniZap4/dog-adventure-prototype)
+
+---
 ## Time Vortex
 >  **Grupo 4**
 
