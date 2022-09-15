@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DevLogs/DevLogs.md",
+            "file": "Sobre/Sobre o Projeto.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevLogs/DevLogs.md",
+                "file": "Sobre/Sobre o Projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevLogs/DevLogs.md",
+                "file": "Sobre/Sobre o Projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevLogs/DevLogs.md"
+                "file": "Sobre/Sobre o Projeto.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "0458bf1023231b6b",
   "lastOpenFiles": [
+    "DevLogs/DevLogs.md",
     "Reuniões/ATA's Vortex/Reunião dia 11 de Setembro de 2022.md",
     "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
     "Sobre/Sobre o Projeto.md",
@@ -138,7 +139,6 @@
     "documentos/drive/Entregas/Tap/pages/pag 4.pdf",
     "documentos/drive/Entregas/Tap/pages/pag 2.pdf",
     "documentos/drive/Entregas/Tap/pages/capa.pdf",
-    "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
-    "documentos/drive/extras/info.pdf"
+    "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf"
   ]
 }
