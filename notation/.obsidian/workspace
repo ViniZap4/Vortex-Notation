@@ -7,11 +7,9 @@
         "id": "0458bf1023231b6b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Sobre/Sobre o Projeto.md",
-            "mode": "source",
-            "source": false
+            "file": "Kanban/Kanban - Dog Adventure.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md"
+                "file": "Kanban/Kanban - Dog Adventure.md"
               }
             }
           }
@@ -130,15 +128,15 @@
   },
   "active": "0458bf1023231b6b",
   "lastOpenFiles": [
+    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
+    "documentos/drive/Entregas/Definição de IA/Definição de IA.pdf",
     "DevLogs/DevLogs.md",
-    "Reuniões/ATA's Vortex/Reunião dia 11 de Setembro de 2022.md",
-    "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md",
+    "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
+    "Kanban/Kanban - Dog Adventure.md",
     "Sobre/Sobre o Projeto.md",
-    "documentos/drive/Entregas/Tap/pages/pag 6.pdf",
-    "documentos/drive/Entregas/Tap/pages/pag 5.pdf",
-    "documentos/drive/Entregas/Tap/pages/pag 4.pdf",
-    "documentos/drive/Entregas/Tap/pages/pag 2.pdf",
-    "documentos/drive/Entregas/Tap/pages/capa.pdf",
-    "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf"
+    "Sobre/Equipe vortex.md",
+    "Reuniões/Reuniões.md",
+    "Reuniões/ATA's Vortex/Reunião dia 11 de Setembro de 2022.md",
+    "Reuniões/ATA's Vortex/Reunião dia 04 de Setembro de 2022.md"
   ]
 }
