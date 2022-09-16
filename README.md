@@ -5,6 +5,7 @@ Documentação para o projeto em Sistemas Inteligentes do segundo semestre de 20
 
 ## Deadlines Entregues
 - [TAP - Termo de abertura do projeto](./notation/documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf)
+- [Definição de IA](./notation/documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf)
 
 ## links interessantes
 - [sobre o projeto](./notation/Sobre/Sobre%20o%20Projeto.md)
