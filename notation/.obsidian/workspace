@@ -7,9 +7,9 @@
         "id": "0458bf1023231b6b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "kanban",
           "state": {
-            "file": "documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf"
+            "file": "Kanban/Kanban - Dog Adventure.md"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf",
+                "file": "Kanban/Kanban - Dog Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf"
+                "file": "Kanban/Kanban - Dog Adventure.md"
               }
             }
           }
@@ -128,9 +128,9 @@
   },
   "active": "0458bf1023231b6b",
   "lastOpenFiles": [
+    "documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf",
     "Kanban/Kanban - Dog Adventure.md",
     "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
-    "documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf",
     "DevLogs/DevLogs.md",
     "documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf",
     "Sobre/Sobre o Projeto.md",
