@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0cd964ef44d928de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef82493e66d9baf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d577d412fcabed7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "96b04ceae1e9bcec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0458bf1023231b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sobre/Sobre o Projeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4099383cf4c2261",
+    "type": "split",
+    "children": [
+      {
+        "id": "05eebff6098dfaf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bc6140ead5bf55c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f89b13474fafeb1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Responsabilidades",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fb40f370fd1a06a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "da8f9a2818f33355",
+    "type": "split",
+    "children": [
+      {
+        "id": "314ba76364f4d6d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a75a439ce296c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a4db951cc2d2d290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94e1eabd7f58f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82f318dfc35b9f73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d577d412fcabed7",
+  "lastOpenFiles": [
+    "Sobre/Sobre o Projeto.md",
+    "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
+    "Deadline/Demonstração/Deadline 6 - Demonstração.md",
+    "Deadline/Doc. Final/Doc. Final.md",
+    "Deadline/Landing page/Deadline 4 - Landing page.md",
+    "Deadline/Prototipação/Deadline 5 - Prototipação.md",
+    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
+    "Deadline/Apresentação/Apresentação.md",
+    "Deadline/Deadlines.md",
+    "Kanban/Kanban - Dog Adventure.md"
+  ]
+}
