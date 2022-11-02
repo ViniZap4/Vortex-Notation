@@ -6,6 +6,8 @@ Documentação para o projeto em Sistemas Inteligentes do segundo semestre de 20
 ## Deadlines Entregues
 - [TAP - Termo de abertura do projeto](./notation/documentos/drive/Entregas/Tap/Tap-Dog-adventure.pdf)
 - [Definição de IA](./notation/documentos/drive/Entregas/Definicao-de-IA/Definição-de-IA.pdf)
+- [Landing page](https://dog-adventure-landing-page.vercel.app)
+- [Prototipação](https://www.figma.com/proto/zrGn2C4jO4ZeZxZk7kHDD2/Dog-Adventure-prototype?page-id=0%3A1&node-id=1%3A3&starting-point-node-id=1%3A3&scaling=scale-down)
 
 ## links interessantes
 - [sobre o projeto](./notation/Sobre/Sobre%20o%20Projeto.md)
