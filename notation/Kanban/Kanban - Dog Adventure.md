@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] # <span style="color:#8c80f2">Criação do Level 3<span><br>#levelMaker #GameDesigner  @{2022-11-27}<br>---<br>Criação do level 3.<br>***
-- [ ] # <span style="color:#8c80f2">Implementação de efeitos sonoros<span><br> #GameDesigner  @{2022-11-27}<br>---<br>implementação de efeitos sonoros.<br>***
-- [ ] # <span style="color:#8c80f2"> Menu Inicial <span><br> #UI #level  #GameDesigner @{2022-11-27}<br>---<br>Criação do Menu Inicial<br>***
+- [ ] # <span style="color:#8c80f2">Criação do Level 3<span><br>#levelMaker #GameDesigner  @{2023-01-01}<br>---<br>Criação do level 3.<br>***
+- [ ] # <span style="color:#8c80f2">Implementação de efeitos sonoros<span><br> #GameDesigner  @{2023-01-01}<br>---<br>implementação de efeitos sonoros.<br>***
+- [ ] # <span style="color:#8c80f2"> Menu Inicial <span><br> #UI #level  #GameDesigner @{2023-01-01}<br>---<br>Criação do Menu Inicial<br>***
 
 
 ## To do
 
-- [ ] # <span style="color:#8c80f2">Criação do Level 2<span><br>#levelMaker #GameDesigner  @{2022-11-20}<br>---<br>Criação do level 2.<br>***
-- [ ] # <span style="color:#8c80f2">Criação do Level 1<span><br>#levelMaker #GameDesigner  @{2022-11-20}<br>---<br>Criação do level 1.<br>***
-- [ ] # <span style="color:#8c80f2"> criação do pause<span><br> #mecanica @{2022-11-13}<br>---<br>Criação da mecânicas de pause<br>***
-- [ ] # <span style="color:#8c80f2"> criação dos créditos<span><br> #level #GameDesigner  @{2022-11-13}<br>---<br>Criação do level de créditos.<br>***
+- [ ] # <span style="color:#8c80f2">Criação do Level 2<span><br>#levelMaker #GameDesigner  @{2022-12-11}<br>---<br>Criação do level 2.<br>***
+- [ ] # <span style="color:#8c80f2">Criação do Level 1<span><br>#levelMaker #GameDesigner  @{2022-12-11}<br>---<br>Criação do level 1.<br>***
+- [ ] # <span style="color:#8c80f2"> criação do pause<span><br> #mecanica @{2022-12-11}<br>---<br>Criação da mecânicas de pause<br>***
+- [ ] # <span style="color:#8c80f2"> criação dos créditos<span><br> #level #GameDesigner  @{2022-12-25}<br>---<br>Criação do level de créditos.<br>***
 
 
 ## High Priority or bugs
@@ -25,8 +25,7 @@ kanban-plugin: basic
 
 ## In Progess
 
-- [ ] # <span style="color:#8c80f2"> Prefab do golem <span><br> #Prefab #monstro #boss @{2022-11-06}<br>---<br>Criação do prefab do golem <br>***
-- [ ] # <span style="color:#8c80f2"> Prefab do tesouro<span><br> #Prefab #monstro  @{2022-11-06}<br>---<br>Criação do prefab do chest <br>***
+- [ ] # <span style="color:#8c80f2"> Prefab do tesouro<span><br> #Prefab #monstro  @{2022-12-04}<br>---<br>Criação do prefab do chest <br>***
 
 
 ## Done
@@ -40,6 +39,7 @@ kanban-plugin: basic
 - [ ] # <span style="color:#8c80f2">Definição de IA</span><br>#Documento. @{2022-10-05}<br>---<br> Criação e Entrega do [[Deadline 3 - Definição da IA]]<br>***
 - [ ] # <span style="color:#8c80f2"> Prototipação <span><br> #Documento. @{2022-10-26}<br>---<br>Criação e Entrega do [[Deadline 5 - Prototipação]]<br>***
 - [ ] # <span style="color:#8c80f2">Landing Page</span><br> #Documento. @{2022-10-12}<br>---<br>Criação e Entrega do [[Deadline 4 - Landing page]]<br>***
+- [ ] # <span style="color:#8c80f2"> Prefab do golem <span><br> #Prefab #monstro #boss @{2022-11-06}<br>---<br>Criação do prefab do golem <br>***
 
 
 
