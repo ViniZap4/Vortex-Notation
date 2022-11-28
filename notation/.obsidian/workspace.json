@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef82493e66d9baf6",
+        "id": "d2d9d2fcd979317f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d577d412fcabed7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "96b04ceae1e9bcec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0458bf1023231b6b",
+            "id": "e4900b8636cea503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre/Sobre o Projeto.md",
-                "mode": "source",
+                "file": "Sobre/Equipe vortex.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sobre/Equipe vortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sobre/Equipe vortex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sobre/Equipe vortex.md"
+              }
             }
           }
         ]
@@ -146,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d577d412fcabed7",
+  "active": "e4900b8636cea503",
   "lastOpenFiles": [
+    "Kanban/Kanban - Dog Adventure.md",
+    "Sobre/Equipe vortex.md",
+    "DevLogs/DevLogs.md",
     "Sobre/Sobre o Projeto.md",
     "Deadline/Definição da IA/Deadline 3 - Definição da IA.md",
     "Deadline/Demonstração/Deadline 6 - Demonstração.md",
     "Deadline/Doc. Final/Doc. Final.md",
     "Deadline/Landing page/Deadline 4 - Landing page.md",
     "Deadline/Prototipação/Deadline 5 - Prototipação.md",
-    "Deadline/TAP/TAP - Termo de abertura do projeto.md",
-    "Deadline/Apresentação/Apresentação.md",
-    "Deadline/Deadlines.md",
-    "Kanban/Kanban - Dog Adventure.md"
+    "Deadline/TAP/TAP - Termo de abertura do projeto.md"
   ]
 }
